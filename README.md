@@ -1,7 +1,7 @@
 
 # 压缩ES6 js代码工具
 - 本工具为uglifyes的简单封装,方便批量压缩,批量输出
-- 通过`options`里的`Entrypath`和`Outpath`来配置输入输出路径,`options`的其他属性配置压缩参数.其API详见[uglifyes](https://github.com/LiPinghai/UglifyJSDocCN/blob/master/README.md)兼容ES6的代码压缩
+- 通过对`main.js`中的`options`里的`Entrypath`和`Outpath`来配置输入输出路径,`options`的其他属性配置压缩参数.其API详见[uglifyes](https://github.com/LiPinghai/UglifyJSDocCN/blob/master/README.md)兼容ES6的代码压缩
 
 - 使用:
 1. ```npm install```或者```yarn```
