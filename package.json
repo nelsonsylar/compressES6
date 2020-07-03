@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "global": "^4.4.0",
+    "uglify-es": "^3.3.9",
+    "uglify-js": "^3.10.0"
+  },
+  "scripts": {
+    "compress": "node main.js"
+  }
+}
